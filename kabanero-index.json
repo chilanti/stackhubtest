@@ -1,0 +1,79 @@
+[
+    {
+        "displayName": "Kabanero Eclipse MicroProfile® template",
+        "description": "Eclipse MicroProfile on Open Liberty & OpenJ9 using Maven",
+        "language": "java",
+        "projectType": "appsodyExtension",
+        "projectStyle": "Appsody",
+        "location": "https://github.com/kabanero-io/collections/releases/download/0.6.3/java-microprofile.v0.2.26.templates.default.tar.gz",
+        "links": {
+            "self": "/devfiles/java-microprofile/devfile.yaml"
+        }
+    },
+    {
+        "displayName": "Kabanero Open Liberty template",
+        "description": "Open Liberty & OpenJ9 using Maven",
+        "language": "java",
+        "projectType": "appsodyExtension",
+        "projectStyle": "Appsody",
+        "location": "https://github.com/kabanero-io/collections/releases/download/0.6.3/java-openliberty.v0.2.3.templates.default.tar.gz",
+        "links": {
+            "self": "/devfiles/java-openliberty/devfile.yaml"
+        }
+    },
+    {
+        "displayName": "Kabanero Spring Boot® kotlin template",
+        "description": "Spring Boot using OpenJ9 and Maven",
+        "language": "java",
+        "projectType": "appsodyExtension",
+        "projectStyle": "Appsody",
+        "location": "https://github.com/kabanero-io/collections/releases/download/0.6.3/java-spring-boot2.v0.3.24.templates.kotlin.tar.gz",
+        "links": {
+            "self": "/devfiles/java-spring-boot2/devfile.yaml"
+        }
+    },
+    {
+        "displayName": "Kabanero Spring Boot® default template",
+        "description": "Spring Boot using OpenJ9 and Maven",
+        "language": "java",
+        "projectType": "appsodyExtension",
+        "projectStyle": "Appsody",
+        "location": "https://github.com/kabanero-io/collections/releases/download/0.6.3/java-spring-boot2.v0.3.24.templates.default.tar.gz",
+        "links": {
+            "self": "/devfiles/java-spring-boot2/devfile.yaml"
+        }
+    },
+    {
+        "displayName": "Kabanero Node.js Express simple template",
+        "description": "Express web framework for Node.js",
+        "language": "nodejs",
+        "projectType": "appsodyExtension",
+        "projectStyle": "Appsody",
+        "location": "https://github.com/kabanero-io/collections/releases/download/0.6.3/nodejs-express.v0.2.10.templates.simple.tar.gz",
+        "links": {
+            "self": "/devfiles/nodejs-express/devfile.yaml"
+        }
+    },
+    {
+        "displayName": "Kabanero Node.js Express scaffold template",
+        "description": "Express web framework for Node.js",
+        "language": "nodejs",
+        "projectType": "appsodyExtension",
+        "projectStyle": "Appsody",
+        "location": "https://github.com/kabanero-io/collections/releases/download/0.6.3/nodejs-express.v0.2.10.templates.scaffold.tar.gz",
+        "links": {
+            "self": "/devfiles/nodejs-express/devfile.yaml"
+        }
+    },
+    {
+        "displayName": "Kabanero Node.js template",
+        "description": "Runtime for Node.js applications",
+        "language": "nodejs",
+        "projectType": "appsodyExtension",
+        "projectStyle": "Appsody",
+        "location": "https://github.com/kabanero-io/collections/releases/download/0.6.3/nodejs.v0.3.3.templates.simple.tar.gz",
+        "links": {
+            "self": "/devfiles/nodejs/devfile.yaml"
+        }
+    }
+]
