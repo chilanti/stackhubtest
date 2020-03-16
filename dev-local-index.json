@@ -1,10 +1,11 @@
 [
-    {
-        "displayName": "Blockchain Client on Openliberty",
-        "description": "Blockchain Client on Openliberty",
-        "language": "java",
-        "projectType": "appsodyExtension",
-        "projectStyle": "Appsody",
-        "location": "file:///Users/mchilant/.appsody/stacks/dev.local/blockchain-node-express.v0.4.4.templates.simple.tar.gz"
-    }
+	{
+		"displayName": "Local Open Liberty default template",
+		"description": "Open Liberty \u0026 OpenJ9 using Maven",
+		"language": "java",
+		"projectType": "appsodyExtension",
+		"projectStyle": "Appsody",
+		"location": "file:///Users/mchilant/.appsody/stacks/dev.local/java-openliberty-stack.v0.2.3.templates.default.tar.gz",
+		"self": "/devfiles/java-openliberty-stack/devfile.yaml"
+	}
 ]
