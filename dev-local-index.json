@@ -6,6 +6,8 @@
 		"projectType": "appsodyExtension",
 		"projectStyle": "Appsody",
 		"location": "https://github.com/chilanti/stackhubtest/blob/master/java-openliberty-stack.v0.2.3.templates.default.tar.gz?raw=true",
-		"self": "/devfiles/java-openliberty-stack/devfile.yaml"
+		"links": {
+		"self": "/devfiles/java-openliberty-stack/devfile.yaml"			
+		}
 	}
 ]
