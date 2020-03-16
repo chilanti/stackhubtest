@@ -1,24 +1,5 @@
 apiVersion: v2
 stacks:
-- id: blockchain-node-express
-  name: Blockchain Node.js Express
-  version: 0.4.4
-  description: Blockchain stack for Node.js Express
-  license: Apache-2.0
-  language: nodejs
-  maintainers:
-  - name: MC
-    email: chilantim@gmail.com
-    github-id: chilanti
-  default-template: simple
-  src: file:///Users/mchilant/.appsody/stacks/dev.local/blockchain-node-express.v0.4.4.source.tar.gz
-  templates:
-  - id: simple
-    url: file:///Users/mchilant/.appsody/stacks/dev.local/blockchain-node-express.v0.4.4.templates.simple.tar.gz
-  requirements:
-    docker-version: '>= 17.09.0'
-    appsody-version: '>= 0.2.7'
-  image: dev.local/chilantim/blockchain-node-express:0.4.4
 - id: java-openliberty-stack
   name: Open Liberty
   version: 0.2.3
