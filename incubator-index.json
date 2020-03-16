@@ -1,0 +1,145 @@
+[
+    {
+        "displayName": "Appsody LoopBack 4 template",
+        "description": "LoopBack 4 API Framework for Node.js",
+        "language": "nodejs",
+        "projectType": "appsodyExtension",
+        "projectStyle": "Appsody",
+        "location": "https://github.com/appsody/stacks/releases/download/nodejs-loopback-v0.2.2/incubator.nodejs-loopback.v0.2.2.templates.scaffold.tar.gz",
+        "links": {
+            "self": "/devfiles/nodejs-loopback/devfile.yaml"
+        }
+    },
+    {
+        "displayName": "Appsody Swift template",
+        "description": "Appsody runtime for Swift applications",
+        "language": "swift",
+        "projectType": "appsodyExtension",
+        "projectStyle": "Appsody",
+        "location": "https://github.com/appsody/stacks/releases/download/swift-v0.2.5/incubator.swift.v0.2.5.templates.simple.tar.gz",
+        "links": {
+            "self": "/devfiles/swift/devfile.yaml"
+        }
+    },
+    {
+        "displayName": "Appsody Node-RED template",
+        "description": "Node-RED runtime for running flows",
+        "language": "nodejs",
+        "projectType": "appsodyExtension",
+        "projectStyle": "Appsody",
+        "location": "https://github.com/appsody/stacks/releases/download/node-red-v0.1.1/incubator.node-red.v0.1.1.templates.simple.tar.gz",
+        "links": {
+            "self": "/devfiles/node-red/devfile.yaml"
+        }
+    },
+    {
+        "displayName": "Appsody Python Flask template",
+        "description": "Flask web Framework for Python",
+        "language": "python",
+        "projectType": "appsodyExtension",
+        "projectStyle": "Appsody",
+        "location": "https://github.com/appsody/stacks/releases/download/python-flask-v0.2.2/incubator.python-flask.v0.2.2.templates.simple.tar.gz",
+        "links": {
+            "self": "/devfiles/python-flask/devfile.yaml"
+        }
+    },
+    {
+        "displayName": "Appsody Starter Sample template",
+        "description": "Runnable starter stack, copy to create a new stack",
+        "language": "bash",
+        "projectType": "appsodyExtension",
+        "projectStyle": "Appsody",
+        "location": "https://github.com/appsody/stacks/releases/download/starter-v0.1.2/incubator.starter.v0.1.2.templates.simple.tar.gz",
+        "links": {
+            "self": "/devfiles/starter/devfile.yaml"
+        }
+    },
+    {
+        "displayName": "Appsody Eclipse MicroProfile® template",
+        "description": "Eclipse MicroProfile on Open Liberty & OpenJ9 using Maven",
+        "language": "java",
+        "projectType": "appsodyExtension",
+        "projectStyle": "Appsody",
+        "location": "https://github.com/appsody/stacks/releases/download/java-microprofile-v0.2.24/incubator.java-microprofile.v0.2.24.templates.default.tar.gz",
+        "links": {
+            "self": "/devfiles/java-microprofile/devfile.yaml"
+        }
+    },
+    {
+        "displayName": "Appsody Kitura template",
+        "description": "Runtime for Kitura applications",
+        "language": "swift",
+        "projectType": "appsodyExtension",
+        "projectStyle": "Appsody",
+        "location": "https://github.com/appsody/stacks/releases/download/kitura-v0.2.5/incubator.kitura.v0.2.5.templates.default.tar.gz",
+        "links": {
+            "self": "/devfiles/kitura/devfile.yaml"
+        }
+    },
+    {
+        "displayName": "Appsody Spring Boot® kotlin template",
+        "description": "Spring Boot using OpenJ9 and Maven",
+        "language": "java",
+        "projectType": "appsodyExtension",
+        "projectStyle": "Appsody",
+        "location": "https://github.com/appsody/stacks/releases/download/java-spring-boot2-v0.3.27/incubator.java-spring-boot2.v0.3.27.templates.kotlin.tar.gz",
+        "links": {
+            "self": "/devfiles/java-spring-boot2/devfile.yaml"
+        }
+    },
+    {
+        "displayName": "Appsody Spring Boot® default template",
+        "description": "Spring Boot using OpenJ9 and Maven",
+        "language": "java",
+        "projectType": "appsodyExtension",
+        "projectStyle": "Appsody",
+        "location": "https://github.com/appsody/stacks/releases/download/java-spring-boot2-v0.3.27/incubator.java-spring-boot2.v0.3.27.templates.default.tar.gz",
+        "links": {
+            "self": "/devfiles/java-spring-boot2/devfile.yaml"
+        }
+    },
+    {
+        "displayName": "Appsody Open Liberty template",
+        "description": "Open Liberty & OpenJ9 using Maven",
+        "language": "java",
+        "projectType": "appsodyExtension",
+        "projectStyle": "Appsody",
+        "location": "https://github.com/appsody/stacks/releases/download/java-openliberty-v0.2.3/incubator.java-openliberty.v0.2.3.templates.default.tar.gz",
+        "links": {
+            "self": "/devfiles/java-openliberty/devfile.yaml"
+        }
+    },
+    {
+        "displayName": "Appsody Node.js template",
+        "description": "Runtime for Node.js applications",
+        "language": "nodejs",
+        "projectType": "appsodyExtension",
+        "projectStyle": "Appsody",
+        "location": "https://github.com/appsody/stacks/releases/download/nodejs-v0.3.5/incubator.nodejs.v0.3.5.templates.simple.tar.gz",
+        "links": {
+            "self": "/devfiles/nodejs/devfile.yaml"
+        }
+    },
+    {
+        "displayName": "Appsody Node.js Express simple template",
+        "description": "Express web framework for Node.js",
+        "language": "nodejs",
+        "projectType": "appsodyExtension",
+        "projectStyle": "Appsody",
+        "location": "https://github.com/appsody/stacks/releases/download/nodejs-express-v0.4.5/incubator.nodejs-express.v0.4.5.templates.simple.tar.gz",
+        "links": {
+            "self": "/devfiles/nodejs-express/devfile.yaml"
+        }
+    },
+    {
+        "displayName": "Appsody Node.js Express scaffold template",
+        "description": "Express web framework for Node.js",
+        "language": "nodejs",
+        "projectType": "appsodyExtension",
+        "projectStyle": "Appsody",
+        "location": "https://github.com/appsody/stacks/releases/download/nodejs-express-v0.4.5/incubator.nodejs-express.v0.4.5.templates.scaffold.tar.gz",
+        "links": {
+            "self": "/devfiles/nodejs-express/devfile.yaml"
+        }
+    }
+]
