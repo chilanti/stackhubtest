@@ -1,7 +1,7 @@
 [
 	{
-		"displayName": "Local Open Liberty default template",
-		"description": "Open Liberty OpenJ9 using Maven",
+		"displayName": "Blockchain client microservice on OpenLiberty",
+		"description": "Blochcain client app based on the OpenLiberty stack",
 		"language": "java",
 		"projectType": "appsodyExtension",
 		"projectStyle": "Appsody",
