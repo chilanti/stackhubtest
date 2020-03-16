@@ -1,7 +1,7 @@
 [
 	{
 		"displayName": "Local Open Liberty default template",
-		"description": "Open Liberty \u0026 OpenJ9 using Maven",
+		"description": "Open Liberty OpenJ9 using Maven",
 		"language": "java",
 		"projectType": "appsodyExtension",
 		"projectStyle": "Appsody",
