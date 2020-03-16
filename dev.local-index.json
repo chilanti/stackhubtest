@@ -1,0 +1,20 @@
+[
+	{
+		"displayName": "Local Blockchain Node.js Express simple template",
+		"description": "Blockchain stack for Node.js Express",
+		"language": "nodejs",
+		"projectType": "appsodyExtension",
+		"projectStyle": "Appsody",
+		"location": "file:///Users/mchilant/.appsody/stacks/dev.local/blockchain-node-express.v0.4.4.templates.simple.tar.gz",
+		"self": "/devfiles/blockchain-node-express/devfile.yaml"
+	},
+	{
+		"displayName": "Local Open Liberty default template",
+		"description": "Open Liberty \u0026 OpenJ9 using Maven",
+		"language": "java",
+		"projectType": "appsodyExtension",
+		"projectStyle": "Appsody",
+		"location": "file:///Users/mchilant/.appsody/stacks/dev.local/java-openliberty-stack.v0.2.3.templates.default.tar.gz",
+		"self": "/devfiles/java-openliberty-stack/devfile.yaml"
+	}
+]
