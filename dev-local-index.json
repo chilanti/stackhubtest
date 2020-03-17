@@ -1,7 +1,7 @@
 [
 	{
 		"displayName": "Blockchain client microservice on OpenLiberty",
-		"description": "Blochcain client app based on the OpenLiberty stack",
+		"description": "Blockhcain client app based on the OpenLiberty stack",
 		"language": "java",
 		"projectType": "appsodyExtension",
 		"projectStyle": "Appsody",
